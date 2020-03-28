@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<individual>
+	<addition_float>
+		<variable>x</variable>
+		<subtraction_float>
+			<variable>y</variable>
+			<constant>-3</constant>
+		</subtraction_float>
+	</addition_float>
+</individual>
+

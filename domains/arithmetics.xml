@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<arithmetics>
+	<function>
+		<name>addition_float</name>
+		<parameter_types>[float, float]</parameter_types>
+		<return_type>float</return_type>
+	</function>
+	<function>
+		<name>subtraction_float</name>
+		<parameter_types>[float, float]</parameter_types>
+		<return_type>float</return_type>
+	</function>
+	
+</arithmetics>
